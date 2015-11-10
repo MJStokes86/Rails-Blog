@@ -1,6 +1,6 @@
 README
 
-HEAD
+
 This is my first Blog app created with Ruby on Rails.
 
 This is also a CRUD application where a user can create, update, and delete blog entries including comments. 
